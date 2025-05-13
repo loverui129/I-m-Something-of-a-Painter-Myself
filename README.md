@@ -1,5 +1,6 @@
 # I-m-Something-of-a-Painter-Myself
 🖼️ Overview
+
 This project applies a pretrained CycleGAN model to perform image-to-image translation from real-world photographs to Monet-style paintings. The task was inspired by the Kaggle competition "I'm Something of a Painter Myself", which challenges participants to generate visually convincing artistic renditions using GAN-based techniques.
 We focused on reusing a pretrained generator (G_A2B) to conduct inference on a set of test photos, and generated stylized outputs in Monet’s aesthetic.
 
